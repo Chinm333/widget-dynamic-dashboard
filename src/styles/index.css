@@ -202,3 +202,9 @@ label {
         border: 1px solid #495094 !important;
     }
 }
+
+@media (max-width: 768px) {
+    .app-header{
+        display: block !important;
+    }
+}
