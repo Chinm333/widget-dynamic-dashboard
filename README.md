@@ -17,7 +17,7 @@ This is a simple dashboard application built with React, Redux, and Bootstrap. U
 ### Steps to Run the Application
 
    ```bash
-   git clone [(https://github.com/Chinm333/widget-dynamic-dashboard)](https://github.com/Chinm333/widget-dynamic-dashboard)
+   git clone https://github.com/Chinm333/widget-dynamic-dashboard.git
    cd widget-dynamic-dashboard
    npm i
    npm start
